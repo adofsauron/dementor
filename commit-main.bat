@@ -8,9 +8,9 @@ git pull
 
 git add .
 
-git commit -m "fix dementor dev"
+git commit -m "fix dementor"
 
-git push -u origin master
+git push -u origin main
 
-REM pause
+pause
 
